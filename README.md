@@ -20,9 +20,3 @@ Pie Charts: Show proportional distribution of categories using df['column_name']
 6. Customization and Saving:
 Customize plot elements like labels, titles, and legend using Matplotlib functions within the plot method.
 Save visualizations as images using plt.savefig("plot.png").
-
-
-Key Points:
-These are basic examples, and Pandas offers various plot types like line plots, area plots, and more.
-For more advanced visualizations and customizations, consider using dedicated libraries like Matplotlib or Seaborn.
-Explore the Pandas documentation and online resources for detailed examples and customization options.
